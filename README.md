@@ -1,4 +1,4 @@
-# Allen Visual Behavior 2P — Tutoriales y modelo de regresión
+# [Allen Visual Behavior 2P - NMA](https://portal.neuromatchacademy.org/certificate/e78dac02-3138-485e-abd6-e6ee738f7d1e)
 
 Repositorio con dos cuadernos sobre el **Allen Brain Observatory Visual Behavior 2P**: uno de tutorial con el SDK (datos tidy, respuestas evento-disparadas, decoding con scikit-learn) y otro con datos preprocesados (Figshare) y modelo de regresión para predecir licks a partir de actividad VIP/SST.
 
